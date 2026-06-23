@@ -5,7 +5,7 @@ Uma calculadora de linha de comando escrita em Python.
 ## Funcionalidades
 
 - Soma
-- Subração
+- Subtração
 - Multiplicação
 - Divisão
 
@@ -17,4 +17,4 @@ python calculadora.py
 
 ## Requisitos
 
-- Python 3.8 ou superor
+- Python 3.8 ou superior
